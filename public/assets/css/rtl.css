@@ -1,0 +1,48 @@
+.rtl {
+	direction: rtl;
+}
+
+.bar{
+	background-color:  	#1E90FF;
+	margin-right: 0px;
+	padding-right: 40px;
+	padding-top: 5px;
+	height: 40px;
+	padding-top: 5px;
+	position: relative;
+}
+
+.side_bar{
+	float: right;
+	background-color: #00001a;
+	min-height: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05) inset;
+    min-height: 550px;
+}
+.nav {
+    padding-right: 14px;
+}
+.footer {
+	background-color: #ffffff;
+	min-height: 5px;
+	padding-right: 40px;
+	color: #00001a
+
+}
+.content{
+	background-color: #e5e5ff;	
+}
+
+.navbar-inverse {
+	
+	width: 100%;
+	background-color: #000036;
+	border-color: #000036;
+	height: 9%;
+}
+
+a .navbar-brand:hover {
+    color: red;
+}
